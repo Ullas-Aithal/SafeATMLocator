@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-6.5.87_89c4138b3b4a3be5e0133df3563dc7938329dbcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_16aaa7975282e967b3c8f5192daaa632d986f88d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7759932daa7e3ccb0ce570c8e92fc0a664ded54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_79123d6f447d7ce1d85764cc6e9b3d6d9beb566d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b0a2e1b3edd51de5a2ea362f1f822660cc1fc66a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_551baab5887ffc24be1005db387b6abf670b157c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_dd22d39d15077d56daf65343dbebb51dd41b38df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_fd570832fbabae1efe3d45f0b515931c120aed46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9fe0fdc6ef32113cf0c33db3a86a0c499771c860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d0e916ee8e6a9cc9ed0735aeea59291410399ee">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66f71ce672e588b407051c33834f4f9ec62964f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d1b5a96cc4fc70ccab942e866275d67c89b7f33f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3b781b20911eeef8d2154524651440bf1d4d1bd">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9de0c58309210a729ca2a5df6bdb7f9b0ee51b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6815c214d264e9625e306b7aab305e1429e9fd53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ullas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a072eecec053218a537c0c7a2b5a2b5d409587ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e9a421732adbccad199708dbb6fe7a4d58ba993b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_aa5ddbd2e67bcd93c26bac01fdf9f89231cc4d8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_99e74a966ac2482f0b0e0e6a97d051736970772a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_485486c642c302116dbf210e901a39a68cd5f040\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Boilermake\ATMSafestLocation\app\libs\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\Boilermake\ATMSafestLocation\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_f49e111b1c4b97ba7786f002f3e675558196b691\classes.dex" />
+    </item>
+
+</items>
